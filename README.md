@@ -45,19 +45,6 @@ The Power BI report is divided into **four main pages**:
 
 ---
 
-text
-DIKSHA IPL POWERBI/
-│
-├── ipl images/                  # Images used in dashboard (backgrounds, logos)
-├── Diksha PowerBI IPL.pbix      # Power BI dashboard file
-├── ipl_2008-2024_matches.xlsx   # Match-level IPL data
-├── ipl_2008-2024_deliveries.xlsx# Ball-by-ball IPL data
-└── README.md                    # Project documentation
-
-```
-
----
-
 ## 🗂️ Data Sources
 
 - **Matches Data**: Match results, teams, venues, toss decisions, winners
