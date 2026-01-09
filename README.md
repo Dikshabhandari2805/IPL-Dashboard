@@ -84,7 +84,6 @@ The datasets cover **all IPL seasons from 2008 to 2024**.
 
 ## 📸 Dashboard Preview
 
-> Screenshots included in the repository show:
 - Home Page
 - Summary View
 - Bowler Statistics
